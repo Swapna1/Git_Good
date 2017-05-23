@@ -21,8 +21,13 @@ Only edit your number!
 <<<<<<< HEAD
 6.  "I want to die in my sleep like my dog.
 =======
+<<<<<<< HEAD
 6.  "I want to die in my sleep like the passengers in his car."
 >>>>>>> 87e549ce73eb70ade482eb40b8312ea178837450
+=======
+6.  "I want to die in my sleep leaming and yelling like the passengers in his car."
+>>>>>>> e9687159b5d93b7eebe277de4235ac39831ebe1a
+>>>>>>> mybranch
 
 
 7.  "I get enougy luck."
