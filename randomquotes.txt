@@ -18,22 +18,15 @@ Only edit your number!
 5.  "How do you know when yoive? Whea tree then realize it was your air-freshener."
 
 
-<<<<<<< HEAD
-6.  "I want to die in my sleep like my dog.
-=======
-<<<<<<< HEAD
+
 6.  "I want to die in my sleep like the passengers in his car."
->>>>>>> 87e549ce73eb70ade482eb40b8312ea178837450
-=======
-6.  "I want to die in my sleep leaming and yelling like the passengers in his car."
->>>>>>> e9687159b5d93b7eebe277de4235ac39831ebe1a
->>>>>>> mybranch
+
 
 
 7.  "I get enougy luck."
 
 
-8.  "Death."
+8.  "Life is precious"
 
 
 9.  "He who lau it."
